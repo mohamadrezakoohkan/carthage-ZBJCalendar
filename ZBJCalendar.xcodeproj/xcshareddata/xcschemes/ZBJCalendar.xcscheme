@@ -71,17 +71,6 @@
                ReferencedContainer = "container:ZBJCalendar.xcodeproj">
             </BuildableReference>
          </TestableReference>
-         <TestableReference
-            skipped = "NO"
-            parallelizable = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E45DA68C2912AC2B00C049B3"
-               BuildableName = "ZBJCalendarLibTests.xctest"
-               BlueprintName = "ZBJCalendarLibTests"
-               ReferencedContainer = "container:ZBJCalendar.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
