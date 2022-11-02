@@ -34,14 +34,14 @@
 		3323E9151CF7646C00ACDD57 /* ZBJSimpleRangeSelectionController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3323E9111CF7646C00ACDD57 /* ZBJSimpleRangeSelectionController.m */; };
 		E45DA6C62912AC7500C049B3 /* ZBJCalendarLib.h in Headers */ = {isa = PBXBuildFile; fileRef = E45DA6C52912AC7500C049B3 /* ZBJCalendarLib.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E45DA6CA2912ACA000C049B3 /* ZBJCalendarWeekView.m in Sources */ = {isa = PBXBuildFile; fileRef = DD787F081C7EA879008360A1 /* ZBJCalendarWeekView.m */; };
-		E45DA6CB2912ACA000C049B3 /* NSDate+IndexPath.h in Headers */ = {isa = PBXBuildFile; fileRef = 321200421C83FE6F00FB171E /* NSDate+IndexPath.h */; };
-		E45DA6CC2912ACA000C049B3 /* NSDate+ZBJAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 323F79601C80183500479C2D /* NSDate+ZBJAddition.h */; };
+		E45DA6CB2912ACA000C049B3 /* NSDate+IndexPath.h in Headers */ = {isa = PBXBuildFile; fileRef = 321200421C83FE6F00FB171E /* NSDate+IndexPath.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E45DA6CC2912ACA000C049B3 /* NSDate+ZBJAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 323F79601C80183500479C2D /* NSDate+ZBJAddition.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E45DA6CD2912ACA000C049B3 /* NSDate+IndexPath.m in Sources */ = {isa = PBXBuildFile; fileRef = 321200431C83FE6F00FB171E /* NSDate+IndexPath.m */; };
 		E45DA6CE2912ACA000C049B3 /* ZBJCalendarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 323F79211C7D8B4100479C2D /* ZBJCalendarView.m */; };
-		E45DA6CF2912ACA000C049B3 /* ZBJCalendar.h in Headers */ = {isa = PBXBuildFile; fileRef = 322B111D1C86BE2D008FD798 /* ZBJCalendar.h */; };
+		E45DA6CF2912ACA000C049B3 /* ZBJCalendar.h in Headers */ = {isa = PBXBuildFile; fileRef = 322B111D1C86BE2D008FD798 /* ZBJCalendar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E45DA6D02912ACA000C049B3 /* NSDate+ZBJAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 323F79611C80183500479C2D /* NSDate+ZBJAddition.m */; };
-		E45DA6D12912ACA000C049B3 /* ZBJCalendarWeekView.h in Headers */ = {isa = PBXBuildFile; fileRef = DD787F071C7EA879008360A1 /* ZBJCalendarWeekView.h */; };
-		E45DA6D22912ACA000C049B3 /* ZBJCalendarView.h in Headers */ = {isa = PBXBuildFile; fileRef = 323F79201C7D8B4100479C2D /* ZBJCalendarView.h */; };
+		E45DA6D12912ACA000C049B3 /* ZBJCalendarWeekView.h in Headers */ = {isa = PBXBuildFile; fileRef = DD787F071C7EA879008360A1 /* ZBJCalendarWeekView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E45DA6D22912ACA000C049B3 /* ZBJCalendarView.h in Headers */ = {isa = PBXBuildFile; fileRef = 323F79201C7D8B4100479C2D /* ZBJCalendarView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E45DA6D42912B8BA00C049B3 /* ZBJCalendar.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E45DA6C32912AC7500C049B3 /* ZBJCalendar.framework */; };
 		E45DA6D52912B8BA00C049B3 /* ZBJCalendar.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = E45DA6C32912AC7500C049B3 /* ZBJCalendar.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
