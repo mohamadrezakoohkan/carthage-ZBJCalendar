@@ -41,6 +41,15 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "32F7EBE51C16779F00ED2DA4"
+            BuildableName = "ZBJCalendar.app"
+            BlueprintName = "ZBJCalendar"
+            ReferencedContainer = "container:ZBJCalendar.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <Testables>
          <TestableReference
             skipped = "NO">
@@ -62,18 +71,18 @@
                ReferencedContainer = "container:ZBJCalendar.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "E45DA68C2912AC2B00C049B3"
+               BuildableName = "ZBJCalendarLibTests.xctest"
+               BlueprintName = "ZBJCalendarLibTests"
+               ReferencedContainer = "container:ZBJCalendar.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "32F7EBE51C16779F00ED2DA4"
-            BuildableName = "ZBJCalendar.app"
-            BlueprintName = "ZBJCalendar"
-            ReferencedContainer = "container:ZBJCalendar.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -95,8 +104,6 @@
             ReferencedContainer = "container:ZBJCalendar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
